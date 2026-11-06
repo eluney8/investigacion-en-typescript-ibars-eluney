@@ -6,6 +6,7 @@
   "scripts": {
     "tipos-basicos": "tsx watch src/tipos-basicos.ts",
     "funciones": "tsx watch src/funciones.ts",
+    "interfaces-type": "tsx watch src/interfaces-type.ts",
     "check": "tsc --noEmit",
     "build": "tsc"
   },
