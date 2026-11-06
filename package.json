@@ -7,6 +7,7 @@
     "tipos-basicos": "tsx watch src/tipos-basicos.ts",
     "funciones": "tsx watch src/funciones.ts",
     "interfaces-type": "tsx watch src/interfaces-type.ts",
+    "enums-literales": "tsx watch src/enums-literales.ts",
     "check": "tsc --noEmit",
     "build": "tsc"
   },
